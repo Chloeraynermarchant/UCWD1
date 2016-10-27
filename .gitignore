@@ -1,0 +1,19 @@
++<!doctype html>
++<html>
++<body background="http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/08/Black-Background-12.jpg">
++		<center>
++		<font color="white">
++	<head>
++		<title>Activity Page</title>
++		<meta charset="utf-8">
++		<meta http-equiv="X-UA-Compatible" content="IE=edge">
++	</head>
++<nav>
++	<center>
++	<font size="6"><b>||<a href="Website- Home.html">Home Page</a> ||
++	<b><a href="Website- News">News Page</a>||
++	<b><a href="activitypage.html">Activity Page</a>||
++	<b><a href="Club_Shop.html">Club Shop</a> ||
++	<b><a href="Signup.html">Sign-up</a>||</font></img>
++	</center>
++</nav>
